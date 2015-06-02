@@ -52,12 +52,7 @@ public class smt_Dao_Impl implements smt_Dao{
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
-<<<<<<< HEAD
     public List<smt> findByName(String name) {
-		return null;
-=======
-    public void findByName(String name) {
->>>>>>> bcd093cb7ee3eea84744390d0549ca5cfd1cbe89
       
     }
     
