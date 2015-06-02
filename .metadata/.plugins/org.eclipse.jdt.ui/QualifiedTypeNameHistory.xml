@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="id.ac.its.pbkk.pendidikan.data.dao.impl.mapel_semester_Dao_Impl"/>
+<fullyQualifiedTypeName name="id.ac.its.pbkk.pendidikan.data.dao.mapel_semester_Dao"/>
+<fullyQualifiedTypeName name="id.ac.its.pbkk.pendidikan.domain.mapel_semester"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="id.ac.its.pbkk.pendidikan.data.dao.impl.mata_pelajaran_Dao_Impl"/>
+<fullyQualifiedTypeName name="id.ac.its.pbkk.pendidikan.data.console.mata_pelajaran_console"/>
+<fullyQualifiedTypeName name="id.ac.its.pbkk.pendidikan.domain.mata_pelajaran"/>
+<fullyQualifiedTypeName name="id.ac.its.pbkk.pendidikan.data.dao.mata_pelajaran_Dao"/>
+<fullyQualifiedTypeName name="id.ac.its.pbkk.pendidikan.domain.rombel"/>
+<fullyQualifiedTypeName name="id.ac.its.pbkk.pendidikan.domain.pd"/>
+</qualifiedTypeNameHistroy>

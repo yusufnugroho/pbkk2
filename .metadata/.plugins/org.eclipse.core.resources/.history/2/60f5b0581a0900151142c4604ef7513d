@@ -1,0 +1,59 @@
+package id.ac.its.pbkk.pendidikan.data.dao.impl;
+
+import java.util.List;
+
+import javax.annotation.Resource;
+
+import id.ac.its.pbkk.pendidikan.data.dao.mata_pelajaran_Dao;
+import id.ac.its.pbkk.pendidikan.domain.mata_pelajaran;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
+
+@Transactional
+@Repository("mata_pelajaran")
+public class mata_pelajaran_Dao_Impl implements mata_pelajaran_Dao {
+	
+	public mata_pelajaran_Dao_Impl (){}
+	//SessionFactory
+	private SessionFactory session_factory;
+
+	@Resource(name="sessionFactory") 
+    public void setSessionFactory(SessionFactory sessionFactory){
+        this.session_factory = sessionFactory;
+    }
+
+    public SessionFactory getSessionFactory(){
+        return this.session_factory;
+    }
+
+	public List<mata_pelajaran> list() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public mata_pelajaran findByID(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void save(mata_pelajaran data) {
+		
+		
+	}
+
+	public void delete(mata_pelajaran data) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public List<mata_pelajaran> findByName(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+}

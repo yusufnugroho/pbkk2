@@ -1,0 +1,5 @@
+package id.ac.its.pbkk.pendidikan.data.dao;
+
+public interface mata_pelajaran_Dao {
+
+}

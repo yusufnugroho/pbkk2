@@ -1,0 +1,15 @@
+package id.ac.its.pbkk.pendidikan.data.dao;
+import java.util.List;
+import java.util.UUID;
+
+import id.ac.its.pbkk.pendidikan.domain.mata_pelajaran;
+import id.ac.its.pbkk.pendidikan.domain.pd;
+
+public interface mata_pelajaran_Dao {
+	public List<mata_pelajaran_Dao> list();
+    public pd_Dao findByID(UUID id);
+    public void save(pd data);
+    public void delete(pd data);
+    public List<pd> findByName(String name);    
+
+}

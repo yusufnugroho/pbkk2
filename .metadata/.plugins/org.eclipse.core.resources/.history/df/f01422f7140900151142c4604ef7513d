@@ -1,0 +1,12 @@
+package id.ac.its.pbkk.pendidikan.data.dao;
+import java.util.List;
+import id.ac.its.pbkk.pendidikan.domain.mata_pelajaran;
+
+public interface mata_pelajaran_Dao {
+	public List<mata_pelajaran_Dao> list();
+	public mata_pelajaran_Dao findByID(String id);
+	public void save(mata_pelajaran_Dao data);
+	public void delete(mata_pelajaran_Dao data);
+	public List<mata_pelajaran_Dao> findByName(String name);
+
+}
