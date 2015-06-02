@@ -1,6 +1,7 @@
 package id.ac.its.pbkk.pendidikan.data.dao.impl;
 
 import id.ac.its.pbkk.pendidikan.data.dao.wali_pd_Dao;
+import id.ac.its.pbkk.pendidikan.domain.ptk;
 import id.ac.its.pbkk.pendidikan.domain.wali_pd;
 
 import java.util.List;
@@ -31,11 +32,13 @@ public class wali_pd_Dao_Impl implements wali_pd_Dao{
 	            return this.session_factory;
 	        }
 
-	    public List<wali_pd_Dao> list() {
-	        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+	    public List<wali_pd> list() {
+	         List<wali_pd> WALI_PD = (List<wali_pd>) session_factory.getCurrentSession().createQuery("from wali_pd").list();//this.getSessionFactory().openSession().createQuery("from wali_pd").list();
+	         WALI_PD.toString();
+	         return WALI_PD;
 	    }
 
-	    public wali_pd_Dao findByID(UUID id) {
+	    public wali_pd findByID(UUID id) {
 	        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
 	    }
 

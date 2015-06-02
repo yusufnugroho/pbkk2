@@ -13,8 +13,8 @@ public class registrasi_pd_console {
         GenericXmlApplicationContext ctx = new GenericXmlApplicationContext();
         ctx.load("classpath:datasource.xml");
         ctx.refresh();
-        //UUID id_wali, String nim pd, String nm pd
-        registrasi_pd data_1 = new registrasi_pd("3294accd-090c-11e5-9536-2cd05a4a81f6","30D6F4CD-24F0-365D-4E03-A64E11E94582");
+        //String id_sat_man, String id_pd
+        registrasi_pd data_1 = new registrasi_pd("496459fe-0950-11e5-9b76-85b1e6718237","215C936D-7BD4-4426-7726-233DC1FC9A16");
         registrasi_pd_Dao controller = ctx.getBean("registrasi_pd",registrasi_pd_Dao.class);
         controller.save(data_1);
         controller.list();

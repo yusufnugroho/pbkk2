@@ -1,13 +1,9 @@
 package id.ac.its.pbkk.pendidikan.domain;
-
 import java.util.*;
-
 import org.joda.time.DateTime;
 import org.hibernate.annotations.GenericGenerator;
 import org.hibernate.annotations.Type;
-
 import java.util.Date;
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -27,19 +23,19 @@ public class wali_pd {
 	private String id_pd;
 	
 
-	@Column(name="NO_AKTE",length=36)
+	@Column(name="NO_AKTE",length=36,nullable=true)
 	private String no_akte;
 	
 
-	@Column(name="NO_KK",length=36)
+	@Column(name="NO_KK",length=36,nullable=true)
 	private String no_kk;
 	
 
-	@Column(name="NAMA_AYAH",length=50)
+	@Column(name="NAMA_AYAH",length=50,nullable=true)
 	private String nama_ayah;
 	
 
-	@Column(name="NAMA_IBU",length=50)
+	@Column(name="NAMA_IBU",length=50,nullable=true)
 	private String nama_ibu;
 	
 	/*
@@ -113,6 +109,16 @@ public class wali_pd {
 		this.setNo_akte(no_akte);
 		this.setNo_kk(no_kk);
 	}
+	 @Override
+	    public String toString() {
+	    String str1 = "ID_WALI_PD :"+id_wali+"\n";
+	    str1 = str1+"ID_PD"+id_pd+"\n";
+	    str1 = str1 +"Nama Ayah"+ nama_ayah+"\n";
+	    str1 = str1 +"Nama Ibu"+ nama_ibu+"\n";
+	    System.out.println(str1);
+	    return str1;
+	    }
+		
 	
 	
 }

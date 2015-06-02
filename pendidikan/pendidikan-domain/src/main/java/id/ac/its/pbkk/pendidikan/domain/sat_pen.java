@@ -134,6 +134,14 @@ public class sat_pen {
 	public void setRayon(String rayon) {
 		this.rayon = rayon;
 	}
+    @Override
+    public String toString() {
+    String str1 = "ID SAT PEN:"+id_sat_man+"\n";
+    str1 = str1+"NM SAT MAN"+nm_sat_man+"\n";
+    System.out.println(str1);
+    return str1;
+    }
+
 	
 	
 }

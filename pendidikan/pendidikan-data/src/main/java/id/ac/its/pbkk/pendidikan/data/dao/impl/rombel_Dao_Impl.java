@@ -29,23 +29,22 @@ public class rombel_Dao_Impl implements rombel_Dao {
         return this.session_factory;
     }
 
-	public List<rombel_Dao> list() {
-		 throw new UnsupportedOperationException("Not supported yet.");
-		// TODO Auto-generated method stub
-	}
-
-	public rombel findByID(int id) {
+	public List<rombel> list() {
 		// TODO Auto-generated method stub
 		return null;
 	}
 
-	public void save(rombel data) {
+	public rombel findByID(String id) {
 		// TODO Auto-generated method stub
-		Session session = this.session_factory.openSession();
-        Transaction tx = session.beginTransaction();
-        session.persist(data);
-        tx.commit();
-        session.close(); 
+		return null;
+	}
+
+	public void save(rombel data_1) {
+		  Session session = this.session_factory.openSession();
+	        Transaction tx = session.beginTransaction();
+	        session.persist(data_1);
+	        tx.commit();
+	        session.close();       
 		
 	}
 
@@ -58,5 +57,6 @@ public class rombel_Dao_Impl implements rombel_Dao {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
 
 }

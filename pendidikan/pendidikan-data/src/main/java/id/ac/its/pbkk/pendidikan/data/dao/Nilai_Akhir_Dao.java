@@ -6,8 +6,8 @@ import java.util.UUID;
 
 public interface Nilai_Akhir_Dao{
 	
-    public List<Nilai_Akhir_Dao> list();
-    public Nilai_Akhir_Dao findByID(UUID id);
+    public List<Nilai_Akhir> list();
+    public Nilai_Akhir findByID(UUID id);
     public void save(Nilai_Akhir data);
     public void delete(Nilai_Akhir data);
     public List<Nilai_Akhir> findByName(String name);

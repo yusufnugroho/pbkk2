@@ -7,10 +7,20 @@ import org.hibernate.annotations.Type;
 
 import java.util.Date;
 
+import javax.persistence.Table;
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.OneToMany;
 import javax.persistence.Table;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlType;
+
+import org.hibernate.annotations.GenericGenerator;
+import org.hibernate.annotations.Type;
+import org.joda.time.DateTime;
 
 @Entity
 @Table (name="nilai_akhir")
@@ -41,6 +51,7 @@ public class Nilai_Akhir {
 	 * 
 	 * */
 	public Nilai_Akhir(){}
+	
 	public String getId_nilai_akhir() {
 		return id_nilai_akhir;
 	}
@@ -79,6 +90,13 @@ public class Nilai_Akhir {
 		this.setNilai_uas(nilai_uas);
 
 	}
+	 @Override
+	    public String toString() {
+	    String str1 = "ID Nilai Ujian Akhir :"+id_nilai_akhir+"\n";
+	    str1 = str1+"Nilai Ujian Akhir"+nilai_ujian_akhir+"\n";
+	    System.out.println(str1);
+	    return str1;
+	    }
 	
 	
 

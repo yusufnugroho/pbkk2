@@ -1,6 +1,7 @@
 package id.ac.its.pbkk.pendidikan.data.dao.impl;
 
 import id.ac.its.pbkk.pendidikan.data.dao.sat_pen_Dao;
+import id.ac.its.pbkk.pendidikan.domain.ptk;
 import id.ac.its.pbkk.pendidikan.domain.sat_pen;
 
 import java.util.List;
@@ -33,8 +34,9 @@ public class sat_pen_dao_impl implements sat_pen_Dao{
         }
 
 		public List<sat_pen> list() {
-			// TODO Auto-generated method stub
-			return null;
+			 List<sat_pen> SAT_PEN = this.getSessionFactory().openSession().createQuery("from sat_pen").list();
+		        SAT_PEN.toString();
+		        return SAT_PEN;
 		}
 
 		public sat_pen_Dao findByID(UUID id) {

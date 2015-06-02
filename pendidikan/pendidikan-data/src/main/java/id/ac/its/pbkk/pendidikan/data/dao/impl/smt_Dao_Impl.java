@@ -53,6 +53,7 @@ public class smt_Dao_Impl implements smt_Dao{
     }
 
     public List<smt> findByName(String name) {
+		return null;
       
     }
     

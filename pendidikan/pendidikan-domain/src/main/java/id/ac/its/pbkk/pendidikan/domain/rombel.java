@@ -24,9 +24,7 @@ public class rombel {
 	public rombel(){}
 	
 	
-	public rombel(int id_ptk, String id_matpel,
-			String id_smt, String nm_rommbel, int jml_rommbel,
-			int pertemuan_dalam_seminggu) {
+	public rombel(int id_ptk, String id_matpel, String id_smt, String nm_rommbel, int jml_rommbel, int pertemuan_dalam_seminggu) {
 		this.setId_matpel(id_matpel);
 		this.setId_ptk(id_ptk);
 		this.setId_smt(id_smt);

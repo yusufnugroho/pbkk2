@@ -1,22 +1,16 @@
 package id.ac.its.pbkk.pendidikan.data.dao.impl;
-
 import id.ac.its.pbkk.pendidikan.data.dao.ptk_Dao;
 import id.ac.its.pbkk.pendidikan.domain.ptk;
-
 import java.util.List;
 import java.util.UUID;
-
 import javax.annotation.Resource;
-
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
-
 @Transactional
 @Repository("ptk")
-
 public class ptk_Dao_Impl implements ptk_Dao {
 
     //Constructor

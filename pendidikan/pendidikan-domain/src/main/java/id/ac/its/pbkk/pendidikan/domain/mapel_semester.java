@@ -24,8 +24,7 @@ public class mapel_semester {
 	
 	
 	
-	public mapel_semester(String id_mapel_semester, String id_matpel,
-			String id_smt) {
+	public mapel_semester(String id_mapel_semester, String id_matpel,String id_smt) {
 		this.setId_mapel_semester(id_mapel_semester);
 		this.setId_matpel(id_matpel);
 		this.setId_smt(id_smt);

@@ -12,7 +12,8 @@ public class mata_pelajaran_console {
         ctx.load("classpath:datasource.xml");
         ctx.refresh();
         //String id_matpel, String sat_man, String nama_matpel
-       mata_pelajaran data_1 = new mata_pelajaran("10000","e63714e5-090e-11e5-861b-00ff7e9c8838","Biologi");
+        //String id_mapel_semester, String id_matpel,String id_smt
+       mata_pelajaran data_1 = new mata_pelajaran("10001","900","147");
        mata_pelajaran_Dao controller = ctx.getBean("mata_pelajaran",mata_pelajaran_Dao.class);
         controller.save(data_1);
         controller.list();
