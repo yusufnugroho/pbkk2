@@ -1,0 +1,12 @@
+package id.ac.its.pbkk.pendidikan.data.dao;
+import id.ac.its.pbkk.pendidikan.domain.mapel_semester;
+import java.util.List;
+
+public interface mapel_semester_Dao {
+	public List<mapel_semester_Dao> list();
+	public mapel_semester_Dao findByID(String id);
+	public void save(mapel_semester data);
+	public void delete(mapel_semester_Dao data);
+	public List<mapel_semester_Dao> findByName(String name);
+
+}

@@ -1,0 +1,5 @@
+package id.ac.its.pbkk.pendidikan.data.dao.impl;
+
+public class mata_pelajaran_Dao_Impl {
+
+}

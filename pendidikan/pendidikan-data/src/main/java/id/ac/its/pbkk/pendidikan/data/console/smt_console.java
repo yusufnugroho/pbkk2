@@ -2,7 +2,6 @@ package id.ac.its.pbkk.pendidikan.data.console;
 
 import id.ac.its.pbkk.pendidikan.domain.smt;
 import id.ac.its.pbkk.pendidikan.data.dao.smt_Dao;
-import id.ac.its.pbkk.pendidikan.domain.smt;
 import org.springframework.context.support.GenericXmlApplicationContext;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
