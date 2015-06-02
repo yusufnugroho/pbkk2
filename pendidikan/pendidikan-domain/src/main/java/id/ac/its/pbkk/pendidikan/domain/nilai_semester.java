@@ -23,12 +23,11 @@ public class nilai_semester {
 	public nilai_semester(){}
 	
 	
-	public nilai_semester(String id_nilai_semester, mata_pelajaran id_matpel,
-			Nilai_Akhir id_nilai_akhir, int nilai_mata_pelajaran_penge,
+	public nilai_semester(String id_nilai_semester, String id_matpel,
+			String id_nilai_akhir, int nilai_mata_pelajaran_penge,
 			int nilai_mata_pelajaran_keterampilan,
-			int nilai_mata_pelajaran_sikap, DateTime create_date) 
+			int nilai_mata_pelajaran_sikap) 
 	{
-		this.setCreate_date(create_date);
 		this.setId_matpel(id_matpel);
 		this.setId_nilai_akhir(id_nilai_akhir);
 		this.setId_nilai_semester(id_nilai_semester);
@@ -78,19 +77,19 @@ public class nilai_semester {
 		this.id_nilai_semester = id_nilai_semester;
 	}
 
-	public mata_pelajaran getId_matpel() {
+	public String getId_matpel() {
 		return id_matpel;
 	}
 
-	public void setId_matpel(mata_pelajaran id_matpel) {
+	public void setId_matpel(String id_matpel) {
 		this.id_matpel = id_matpel;
 	}
 
-	public Nilai_Akhir getId_nilai_akhir() {
+	public String getId_nilai_akhir() {
 		return id_nilai_akhir;
 	}
 
-	public void setId_nilai_akhir(Nilai_Akhir id_nilai_akhir) {
+	public void setId_nilai_akhir(String id_nilai_akhir) {
 		this.id_nilai_akhir = id_nilai_akhir;
 	}
 

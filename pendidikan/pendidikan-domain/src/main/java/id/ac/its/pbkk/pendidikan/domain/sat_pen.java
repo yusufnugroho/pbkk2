@@ -2,12 +2,14 @@ package id.ac.its.pbkk.pendidikan.domain;
 import java.util.*;
 
 import org.joda.time.DateTime;
+import org.hibernate.annotations.GenericGenerator;
 import org.hibernate.annotations.Type;
 
 import java.util.Date;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
@@ -16,6 +18,8 @@ import javax.persistence.Table;
 public class sat_pen {
 
 	@Id
+	@GeneratedValue(generator="uuid2")
+    @GenericGenerator(name="uuid2", strategy="uuid2")
 	@Column(name="ID_SAT_MAN",length = 36)
 	private String id_sat_man;
 	/*
@@ -52,15 +56,13 @@ public class sat_pen {
 	//Constructor
 	public sat_pen(){}
 	
-	public sat_pen(String id_sat_man,String id_sat_pen, String nm_sat_man,int a_sat_man_aktif,String alamat_satuan_pendidikan, String telp_satuan_pendidikan, String jenjang_pendidikan, String rayon,DateTime create_date)
+	public sat_pen(String nm_sat_man,int a_sat_man_aktif,String alamat_satuan_pendidikan, String telp_satuan_pendidikan, String jenjang_pendidikan, String bentuk_pendidikan,String rayon)
 	{
-		this.setId_sat_man(id_sat_man);
 		this.setNm_sat_man(nm_sat_man);
 		this.setTelp_satuan_pendidikan(telp_satuan_pendidikan);
 		this.setA_sat_man_aktif(a_sat_man_aktif);
 		this.setAlamat_satuan_pendidikan(alamat_satuan_pendidikan);
-		this.setBentuk_pendidikan(jenjang_pendidikan);
-		this.setCreate_date(create_date);
+		this.setBentuk_pendidikan(bentuk_pendidikan);
 		this.setRayon(rayon);
 		this.setJenjang_pendidikan(jenjang_pendidikan);
 
@@ -75,22 +77,6 @@ public class sat_pen {
 
 	public void setId_sat_man(String id_sat_man) {
 		this.id_sat_man = id_sat_man;
-	}
-
-	public boolean isSoft_delete() {
-		return soft_delete;
-	}
-
-	public void setSoft_delete(boolean soft_delete) {
-		this.soft_delete = soft_delete;
-	}
-
-	public DateTime getcreate_date() {
-		return create_date;
-	}
-
-	public void setCreate_date(DateTime create_date) {
-		this.create_date = create_date;
 	}
 
 	public String getNm_sat_man() {
