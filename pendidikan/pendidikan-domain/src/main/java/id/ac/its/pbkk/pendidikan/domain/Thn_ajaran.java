@@ -32,11 +32,9 @@ public class Thn_ajaran {
 	public Thn_ajaran(){}
 	
 	
-	public Thn_ajaran(String ID_THN_AJARAN, int THN_THN_AJARAN, Date CREATE_DATE, int SOFT_DELETE){
+	public Thn_ajaran(String ID_THN_AJARAN, int THN_THN_AJARAN){
 		this.setID_THN_AJARAN(ID_THN_AJARAN);
 		this.setTHN_THN_AJARAN(THN_THN_AJARAN);
-		this.setCreate_date(create_date);
-		this.setSoft_delete(soft_delete);
 	}
 
 	public String getID_THN_AJARAN() {
@@ -52,24 +50,5 @@ public class Thn_ajaran {
 		this.THN_THN_AJARAN = THN_THN_AJARAN;
 	}
 
-
-	public boolean isSoft_delete() {
-		return soft_delete;
-	}
-
-
-	public void setSoft_delete(boolean soft_delete) {
-		this.soft_delete = soft_delete;
-	}
-
-
-	public DateTime getCreate_date() {
-		return create_date;
-	}
-
-
-	public void setCreate_date(DateTime create_date) {
-		this.create_date = create_date;
-	}
 	
 }
