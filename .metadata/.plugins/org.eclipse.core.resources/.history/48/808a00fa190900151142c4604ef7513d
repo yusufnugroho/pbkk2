@@ -1,0 +1,12 @@
+package id.ac.its.pbkk.pendidikan.data.dao;
+import id.ac.its.pbkk.pendidikan.domain.pd;
+import java.util.List;
+import java.util.UUID;
+
+public interface pd_Dao {
+    public List<pd_Dao> list();
+    public pd_Dao findByID(UUID id);
+    public void save(pd data);
+    public void delete(pd data);
+    public List<pd> findByName(String name);    
+}

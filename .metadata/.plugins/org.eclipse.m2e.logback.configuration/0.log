@@ -1,0 +1,543 @@
+2015-06-02 15:56:35,244 [Worker-1] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project pendidikan-data already exists
+2015-06-02 15:56:35,244 [Worker-1] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project pendidikan-domain already exists
+2015-06-02 15:56:35,556 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pom.xml.
+2015-06-02 15:56:36,271 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 15:56:36,333 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 15:56:37,364 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 15:56:37,646 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/main/java
+2015-06-02 15:56:37,646 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/test/java
+2015-06-02 15:56:37,646 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 15:56:37,802 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/main/java
+2015-06-02 15:56:37,802 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pendidikan-data/src/main/resources
+2015-06-02 15:56:37,802 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/test/java
+2015-06-02 15:56:38,317 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pom.xml.
+2015-06-02 15:56:38,333 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 5 project(s) in 3 sec
+2015-06-02 15:56:38,411 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 15:56:38,646 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 15:56:40,599 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 15:56:40,974 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 15:56:40,974 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 15:56:40,974 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 15:56:40,990 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 15:56:41,756 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 15:56:41,772 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 15:56:41,772 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 15:56:41,772 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 15:56:43,116 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 15:56:43,303 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 15:56:43,606 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pom.xml.
+2015-06-02 15:56:43,654 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 15:56:43,748 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 15:56:44,436 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 15:56:44,436 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 15:56:44,436 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 15:56:44,436 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 15:56:44,717 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 15:56:44,717 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 15:56:44,717 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 15:56:44,717 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:01:47,761 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:01:47,761 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 16:01:47,761 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:01:47,761 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 16:01:47,761 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:01:47,761 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:01:47,777 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:01:47,777 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:03:30,781 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:03:30,796 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:03:30,796 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:03:30,796 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:16:56,260 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-06-02 16:16:56,344 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pom.xml.
+2015-06-02 16:16:56,497 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 16:16:56,742 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 16:16:56,900 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/main/java
+2015-06-02 16:16:56,900 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pendidikan-data/src/main/resources
+2015-06-02 16:16:56,900 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/test/java
+2015-06-02 16:16:56,967 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/main/java
+2015-06-02 16:16:56,967 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/test/java
+2015-06-02 16:16:57,193 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-06-02 16:16:57,717 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:16:57,718 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 16:16:57,719 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:16:57,720 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 16:16:58,166 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:16:58,166 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:16:58,167 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:16:58,167 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:17:06,633 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan
+2015-06-02 16:17:06,633 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 16:17:13,939 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:17:13,939 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 16:17:13,939 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:17:13,939 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 16:17:13,955 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:17:13,955 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:17:13,955 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:17:13,955 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:17:26,581 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 16:17:27,148 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:17:27,148 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:17:27,150 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:17:27,150 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:17:37,171 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 16:17:37,563 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:17:37,564 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 16:17:37,565 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:17:37,566 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 16:17:37,888 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:17:37,888 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:17:37,888 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:17:37,888 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:17:49,736 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-06-02 16:17:49,780 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pom.xml.
+2015-06-02 16:17:49,912 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 16:17:50,214 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 16:17:50,334 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/main/java
+2015-06-02 16:17:50,334 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pendidikan-data/src/main/resources
+2015-06-02 16:17:50,334 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/test/java
+2015-06-02 16:17:50,407 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/main/java
+2015-06-02 16:17:50,408 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/test/java
+2015-06-02 16:17:50,618 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 16:17:50,818 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 16:17:50,868 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-06-02 16:17:51,253 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:17:51,253 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 16:17:51,253 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:17:51,253 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 16:17:51,713 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:17:51,713 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:17:51,716 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:17:51,716 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:17:57,780 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 16:17:58,123 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:17:58,123 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:17:58,123 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:17:58,123 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:18:03,626 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 16:18:03,805 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:18:03,806 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 16:18:03,807 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:18:03,807 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 16:18:10,724 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-06-02 16:18:10,788 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pom.xml.
+2015-06-02 16:18:10,919 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 16:18:11,144 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 16:18:11,266 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/main/java
+2015-06-02 16:18:11,266 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pendidikan-data/src/main/resources
+2015-06-02 16:18:11,266 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/test/java
+2015-06-02 16:18:11,359 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/main/java
+2015-06-02 16:18:11,359 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/test/java
+2015-06-02 16:18:11,571 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 16:18:11,905 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 16:18:11,980 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-06-02 16:18:12,341 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:18:12,342 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 16:18:12,343 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:18:12,344 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 16:18:12,763 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:18:12,763 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:18:12,763 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:18:12,763 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:18:18,255 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan
+2015-06-02 16:18:18,255 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 16:18:20,046 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:18:20,047 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 16:18:20,048 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:18:20,049 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 16:18:20,055 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:18:20,055 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:18:20,055 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:18:20,055 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:19:28,305 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:19:28,306 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:19:28,308 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:19:28,308 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:20:21,780 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:20:21,780 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:20:21,796 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:20:21,796 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:23:37,015 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:23:37,016 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:23:37,017 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:23:37,017 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:24:53,257 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 16:24:53,620 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:24:53,620 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:24:53,620 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:24:53,620 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:26:54,570 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:26:54,571 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:26:54,573 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:26:54,573 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:27:12,415 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:27:12,416 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:27:12,417 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:27:12,418 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:32:09,773 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:32:09,773 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:32:09,773 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:32:09,773 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:33:18,639 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:33:18,640 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:33:18,641 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:33:18,641 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:33:35,399 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:33:35,400 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:33:35,402 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:33:35,402 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:34:00,061 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:34:00,062 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:34:00,063 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:34:00,063 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:34:08,172 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:34:08,188 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:34:08,188 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:34:08,188 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:34:13,670 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:34:13,671 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:34:13,672 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:34:13,673 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:36:18,898 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:36:18,898 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:36:18,898 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:36:18,898 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:38:32,868 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:38:32,868 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:38:32,868 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:38:32,884 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:43:14,678 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:43:14,678 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:43:14,678 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:43:14,678 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:43:57,759 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:43:57,759 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:43:57,759 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:43:57,759 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:45:28,259 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:45:28,259 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:45:28,259 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:45:28,259 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:46:05,142 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:46:05,142 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:46:05,142 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:46:05,142 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:46:43,060 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:46:43,076 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:46:43,076 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:46:43,076 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 16:55:04,426 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:55:04,442 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 16:55:04,442 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:55:04,442 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 16:55:04,536 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:55:04,536 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 16:55:04,536 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 16:55:04,536 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:13:07,590 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:13:07,590 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:13:07,590 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:13:07,590 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:13:39,914 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:13:39,914 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:13:39,914 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:13:39,914 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:14:26,684 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:14:26,684 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:14:26,684 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:14:26,684 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:17:19,188 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-06-02 17:17:19,283 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pom.xml.
+2015-06-02 17:17:19,415 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 17:17:19,697 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 17:17:20,173 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/main/java
+2015-06-02 17:17:20,173 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pendidikan-data/src/main/resources
+2015-06-02 17:17:20,173 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/test/java
+2015-06-02 17:17:20,235 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/main/java
+2015-06-02 17:17:20,235 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/test/java
+2015-06-02 17:17:20,458 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-06-02 17:17:20,903 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:17:20,903 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 17:17:20,903 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:17:20,903 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 17:17:21,435 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:17:21,435 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:17:21,482 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:17:21,482 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:17:32,534 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data
+2015-06-02 17:17:32,534 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 17:17:43,468 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data
+2015-06-02 17:17:43,468 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 17:17:45,410 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:17:45,410 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:17:45,410 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:17:45,410 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:17:49,614 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data
+2015-06-02 17:17:49,614 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 17:18:13,288 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan
+2015-06-02 17:18:13,288 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 17:18:19,705 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:18:19,705 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 17:18:19,705 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:18:19,705 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 17:18:29,292 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan
+2015-06-02 17:18:29,292 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 17:18:31,022 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:18:31,022 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 17:18:31,022 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:18:31,022 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 17:18:31,038 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:18:31,038 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:18:31,038 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:18:31,038 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:18:37,357 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan
+2015-06-02 17:18:37,357 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 17:18:50,357 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain
+2015-06-02 17:18:50,357 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 17:18:52,010 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:18:52,010 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 17:18:52,010 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:18:52,010 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 17:18:58,004 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain
+2015-06-02 17:18:58,004 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 17:19:39,517 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-06-02 17:19:39,557 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pom.xml.
+2015-06-02 17:19:39,659 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 17:19:39,879 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 17:19:40,254 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/main/java
+2015-06-02 17:19:40,254 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pendidikan-data/src/main/resources
+2015-06-02 17:19:40,254 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/test/java
+2015-06-02 17:19:40,285 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/main/java
+2015-06-02 17:19:40,301 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/test/java
+2015-06-02 17:19:40,372 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-06-02 17:19:40,751 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:19:40,751 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 17:19:40,751 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:19:40,751 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 17:19:41,131 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:19:41,131 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:19:41,147 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:19:41,147 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:19:45,617 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan
+2015-06-02 17:19:45,617 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 17:19:48,946 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:19:48,946 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 17:19:48,946 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:19:48,946 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 17:19:48,961 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:19:48,961 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:19:48,961 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:19:48,961 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:19:54,060 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain
+2015-06-02 17:19:54,060 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 17:20:00,582 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data
+2015-06-02 17:20:00,582 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 17:21:42,537 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:21:42,537 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:21:42,537 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:21:42,537 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:24:09,738 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:24:09,738 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:24:09,738 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:24:09,738 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:24:25,339 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:24:25,339 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:24:25,339 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:24:25,339 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:27:42,238 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:27:42,238 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:27:42,238 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:27:42,238 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:28:17,421 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:28:17,422 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:28:17,423 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:28:17,423 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:30:54,418 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:30:54,418 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:30:54,418 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:30:54,418 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:31:47,105 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:31:47,105 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:31:47,105 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:31:47,105 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:36:42,046 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:36:42,046 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 17:36:42,046 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:36:42,046 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 17:40:08,717 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:40:08,717 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:40:08,733 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:40:08,733 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:40:30,678 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:40:30,678 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:40:30,678 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:40:30,678 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:40:41,142 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:40:41,142 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:40:41,142 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:40:41,142 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:42:09,658 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:42:09,674 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 17:42:09,674 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:42:09,674 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 17:42:16,481 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:42:16,483 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:42:16,485 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:42:16,486 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:44:25,720 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:44:25,723 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:44:25,724 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:44:25,724 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:45:03,452 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:45:03,452 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:45:03,452 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:45:03,452 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:48:55,639 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:48:55,639 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:48:55,640 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:48:55,641 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:51:52,555 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:51:52,571 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:51:52,571 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:51:52,571 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:52:19,497 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:52:19,497 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:52:19,497 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:52:19,497 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 17:53:48,904 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:53:48,904 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 17:53:48,904 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 17:53:48,904 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:12:05,523 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:12:05,524 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:12:05,525 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:12:05,525 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:14:08,633 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:14:08,648 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:14:08,649 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:14:08,649 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:14:53,182 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:14:53,182 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:14:53,182 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:14:53,182 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:15:18,535 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:15:18,535 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:15:18,535 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:15:18,535 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:16:11,539 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:16:11,539 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 18:16:11,554 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:16:11,554 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 18:16:11,570 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:16:11,570 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:16:11,570 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:16:11,570 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:16:17,402 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:16:17,402 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 18:16:17,418 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:16:17,418 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 18:16:17,455 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:16:17,455 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:16:17,458 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:16:17,458 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:18:58,752 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data
+2015-06-02 18:18:58,752 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 18:19:00,866 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:19:00,866 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:19:00,897 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:19:00,897 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:19:04,808 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain
+2015-06-02 18:19:04,808 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 18:19:06,632 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:19:06,632 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 18:19:06,632 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:19:06,632 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 18:19:10,448 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data
+2015-06-02 18:19:10,448 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 18:19:15,904 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain
+2015-06-02 18:19:15,904 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 18:21:15,839 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:21:15,839 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 18:21:15,839 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:21:15,839 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 18:21:15,916 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:21:15,916 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:21:15,916 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:21:15,916 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:22:03,142 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:22:03,142 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:22:03,157 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:22:03,157 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:22:13,123 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:22:13,123 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:22:13,123 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:22:13,123 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:22:55,986 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:22:55,986 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:22:55,986 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:22:55,986 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:23:23,722 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:23:23,722 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:23:23,722 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:23:23,722 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:23:52,141 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:23:52,157 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:23:52,157 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:23:52,157 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:24:47,925 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:24:47,925 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:24:47,925 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:24:47,925 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:25:44,693 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:25:44,693 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:25:44,693 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:25:44,693 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:25:56,027 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan
+2015-06-02 18:25:56,027 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 18:25:57,882 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:25:57,882 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 18:25:57,882 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:25:57,882 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 18:25:57,898 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:25:57,898 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:25:57,898 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:25:57,898 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:26:58,857 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:26:58,857 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:26:58,857 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:26:58,857 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:27:19,081 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:27:19,081 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:27:19,081 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:27:19,081 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:27:26,826 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:27:26,826 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:27:26,826 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:27:26,826 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:28:01,806 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:28:01,806 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:28:01,806 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:28:01,806 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:29:16,217 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-06-02 18:29:16,264 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pom.xml.
+2015-06-02 18:29:16,374 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-data:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\pom.xml.
+2015-06-02 18:29:16,624 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: id.ac.its.pbkk.pendidikan:pendidikan-domain:0.0.1-SNAPSHOT @ C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\pom.xml.
+2015-06-02 18:29:17,007 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/main/java
+2015-06-02 18:29:17,007 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pendidikan-data/src/main/resources
+2015-06-02 18:29:17,007 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-data/src/test/java
+2015-06-02 18:29:17,038 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/main/java
+2015-06-02 18:29:17,038 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pendidikan-domain/src/test/java
+2015-06-02 18:29:17,162 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-06-02 18:29:17,539 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:29:17,539 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\main\resources
+2015-06-02 18:29:17,539 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:29:17,539 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-domain\src\test\resources
+2015-06-02 18:29:18,015 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:29:18,015 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:29:18,017 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:29:18,018 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources
+2015-06-02 18:30:42,061 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:30:42,061 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-02 18:30:42,062 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-02 18:30:42,062 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bagusseta\Desktop\superFinal\pbkk2\pendidikan\pendidikan-data\src\test\resources

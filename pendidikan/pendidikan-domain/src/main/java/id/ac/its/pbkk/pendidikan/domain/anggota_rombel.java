@@ -21,13 +21,11 @@ public class anggota_rombel {
 	//Constructor
 	public anggota_rombel(){}
 	
-	public anggota_rombel(String id_anggota_rombel, rombel id_rombel, pd id_pd,
-			DateTime create_date) {
-		this.setCreate_date(create_date);
+	public anggota_rombel(String id_anggota_rombel, String id_rombel, String id_pd) 
+	{
 		this.setId_anggota_rombel(id_anggota_rombel);
-		this.setId_pd(id_pd);
 		this.setId_rombel(id_rombel);
-
+		this.setId_pd(id_pd);
 	}
 
 	@Id
@@ -52,9 +50,6 @@ public class anggota_rombel {
 	private DateTime create_date;
 	//###
 
-	//setter and getter
-	
-
 	public String getId_anggota_rombel() {
 		return id_anggota_rombel;
 	}
@@ -63,19 +58,19 @@ public class anggota_rombel {
 		this.id_anggota_rombel = id_anggota_rombel;
 	}
 
-	public rombel getId_rombel() {
+	public String getId_rombel() {
 		return id_rombel;
 	}
 
-	public void setId_rombel(rombel id_rombel) {
+	public void setId_rombel(String id_rombel) {
 		this.id_rombel = id_rombel;
 	}
 
-	public pd getId_pd() {
+	public String getId_pd() {
 		return id_pd;
 	}
 
-	public void setId_pd(pd id_pd) {
+	public void setId_pd(String id_pd) {
 		this.id_pd = id_pd;
 	}
 
@@ -95,5 +90,6 @@ public class anggota_rombel {
 		this.create_date = create_date;
 	}
 
-	
+	//setter and getter
+		
 }

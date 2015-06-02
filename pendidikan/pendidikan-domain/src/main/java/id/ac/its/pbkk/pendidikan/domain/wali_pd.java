@@ -3,12 +3,14 @@ package id.ac.its.pbkk.pendidikan.domain;
 import java.util.*;
 
 import org.joda.time.DateTime;
+import org.hibernate.annotations.GenericGenerator;
 import org.hibernate.annotations.Type;
 
 import java.util.Date;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
@@ -16,6 +18,8 @@ import javax.persistence.Table;
 @Table (name="wali_pd")
 public class wali_pd {
 	@Id
+	@GeneratedValue(generator="uuid2")
+    @GenericGenerator(name="uuid2", strategy="uuid2")
 	@Column(name="ID_WALI",length=36)
 	private String id_wali;
 	
@@ -98,33 +102,16 @@ public class wali_pd {
 		this.nama_ibu = nama_ibu;
 	}
 
-	public boolean isSoft_delete() {
-		return soft_delete;
-	}
-
-	public void setSoft_delete(boolean soft_delete) {
-		this.soft_delete = soft_delete;
-	}
-
-	public DateTime getCreate_date() {
-		return create_date;
-	}
-
-	public void setCreate_date(DateTime creata_date) {
-		this.create_date = creata_date;
-	}
 	/*Constructor*/
 	public wali_pd(){}
 	
-	public wali_pd(String id_wali,String id_pd,String no_akte,String no_kk,String nama_ayah,String nama_ibu,DateTime create_date)
+	public wali_pd(String id_pd,String no_akte,String no_kk,String nama_ayah,String nama_ibu)
 	{
 		this.setId_pd(id_pd);
-		this.setId_wali(id_wali);
 		this.setNama_ayah(nama_ayah);
 		this.setNama_ibu(nama_ibu);
 		this.setNo_akte(no_akte);
 		this.setNo_kk(no_kk);
-		this.setCreate_date(create_date);
 	}
 	
 	

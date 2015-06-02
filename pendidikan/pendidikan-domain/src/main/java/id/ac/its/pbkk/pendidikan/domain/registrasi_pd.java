@@ -1,4 +1,5 @@
 package id.ac.its.pbkk.pendidikan.domain;
+import org.hibernate.annotations.GenericGenerator;
 import org.hibernate.annotations.Type;
 import org.joda.time.DateTime;
 
@@ -9,6 +10,7 @@ import java.util.Date;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.Lob;
@@ -22,19 +24,15 @@ public class registrasi_pd {
 	public registrasi_pd(){}
 	
 	
-	public registrasi_pd(String id_registrasi, sat_pen id_sat_man, pd id_pd,
-			DateTime tanggal_masuk, DateTime tanggal_keluar,
-			DateTime create_date) {
-		this.setCreate_date(create_date);
+	public registrasi_pd(String id_sat_man, String id_pd) {
 		this.setId_pd(id_pd);
-		this.setId_registrasi(id_registrasi);
 		this.setId_sat_man(id_sat_man);
-		this.setTanggal_keluar(tanggal_keluar);
-		this.setTanggal_masuk(tanggal_masuk);
 	}
 
 
-	@Id 
+	@Id
+	@GeneratedValue(generator="uuid2")
+    @GenericGenerator(name="uuid2", strategy="uuid2")
 	@Column(name="ID_REGISTRASI")
 	private String id_registrasi;
 	
@@ -73,53 +71,20 @@ public class registrasi_pd {
 		this.id_registrasi = id_registrasi;
 	}
 
-	public sat_pen getId_sat_man() {
+	public String getId_sat_man() {
 		return id_sat_man;
 	}
 
-	public void setId_sat_man(sat_pen id_sat_man) {
+	public void setId_sat_man(String id_sat_man) {
 		this.id_sat_man = id_sat_man;
 	}
 
-	public pd getId_pd() {
+	public String getId_pd() {
 		return id_pd;
 	}
 
-	public void setId_pd(pd id_pd) {
+	public void setId_pd(String id_pd) {
 		this.id_pd = id_pd;
 	}
 
-	public DateTime getTanggal_masuk() {
-		return tanggal_masuk;
-	}
-
-	public void setTanggal_masuk(DateTime tanggal_masuk) {
-		this.tanggal_masuk = tanggal_masuk;
-	}
-
-	public DateTime getTanggal_keluar() {
-		return tanggal_keluar;
-	}
-
-	public void setTanggal_keluar(DateTime tanggal_keluar) {
-		this.tanggal_keluar = tanggal_keluar;
-	}
-
-	public boolean isSoft_delete() {
-		return soft_delete;
-	}
-
-	public void setSoft_delete(boolean soft_delete) {
-		this.soft_delete = soft_delete;
-	}
-
-	public DateTime getCreate_date() {
-		return create_date;
-	}
-
-	public void setCreate_date(DateTime create_date) {
-		this.create_date = create_date;
-	}
-	
-	
 }
