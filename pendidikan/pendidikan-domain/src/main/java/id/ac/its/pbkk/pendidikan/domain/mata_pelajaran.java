@@ -101,5 +101,14 @@ public class mata_pelajaran {
 	public void setId_sat_man(String id_sat_man) {
 		this.id_sat_man = id_sat_man;
 	}
+         @Override
+	    public String toString() {
+	    String str1 = "ID_MAT_PEL :"+id_matpel+"\n";
+	    str1 = str1+"ID_SAT_MAN :"+id_sat_man+"\n";
+	    str1 = str1 +"Nama Matapelajaran :"+ nama_matpel+"\n";
+
+	    System.out.println(str1);
+	    return str1;
+	    }
 
 }

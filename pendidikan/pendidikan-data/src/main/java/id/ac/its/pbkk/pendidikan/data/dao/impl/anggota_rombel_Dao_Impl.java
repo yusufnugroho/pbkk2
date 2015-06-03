@@ -33,7 +33,9 @@ public class anggota_rombel_Dao_Impl implements anggota_rombel_Dao {
         }
         //FUNCTION
 	public List<anggota_rombel_Dao> list() {
-		 throw new UnsupportedOperationException("Not supported yet.");
+	 List<anggota_rombel_Dao> ANGGOTA = this.getSessionFactory().openSession().createQuery("from anggota_rombel").list();
+         ANGGOTA.toString();
+         return ANGGOTA;
 		
 	}
 

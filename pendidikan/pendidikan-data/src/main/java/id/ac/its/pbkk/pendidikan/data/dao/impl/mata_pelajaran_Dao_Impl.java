@@ -31,8 +31,9 @@ public class mata_pelajaran_Dao_Impl implements mata_pelajaran_Dao {
     }
 
 	public List<mata_pelajaran> list() {
-		// TODO Auto-generated method stub
-		return null;
+        List<mata_pelajaran> MATA_PELAJARAN = this.getSessionFactory().openSession().createQuery("from mata_pelajaran").list();
+         MATA_PELAJARAN.toString();
+         return MATA_PELAJARAN;
 	}
 
 	public mata_pelajaran findByID(String id) {

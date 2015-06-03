@@ -15,7 +15,7 @@ import javax.persistence.Table;
 public class wali_pd {
 	@Id
 	@GeneratedValue(generator="uuid2")
-    @GenericGenerator(name="uuid2", strategy="uuid2")
+        @GenericGenerator(name="uuid2", strategy="uuid2")
 	@Column(name="ID_WALI",length=36)
 	private String id_wali;
 	
@@ -41,11 +41,11 @@ public class wali_pd {
 	/*
 	 * Default table*/
 	@Column(name = "SOFT_DELETE", nullable = true)
-	private boolean soft_delete;
+	private String soft_delete;
 	
 	//@Type(type="org.jadira.usertype.dateandtime.joda.PersistentDateTime")
 	@Column(name = "CREATE_DATE", nullable = true)
-	private DateTime create_date;
+	private String create_date;
 	
 	/*Setter and Getter*/
 	
@@ -97,6 +97,22 @@ public class wali_pd {
 	public void setNama_ibu(String nama_ibu) {
 		this.nama_ibu = nama_ibu;
 	}
+
+    public String getSoft_delete() {
+        return soft_delete;
+    }
+
+    public void setSoft_delete(String soft_delete) {
+        this.soft_delete = soft_delete;
+    }
+
+    public String getCreate_date() {
+        return create_date;
+    }
+
+    public void setCreate_date(String create_date) {
+        this.create_date = create_date;
+    }
 
 	/*Constructor*/
 	public wali_pd(){}

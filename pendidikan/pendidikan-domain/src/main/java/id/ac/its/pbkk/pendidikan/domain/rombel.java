@@ -36,7 +36,7 @@ public class rombel {
 
 	@Id
 	@GeneratedValue(generator="uuid2")
-    @GenericGenerator(name="uuid2", strategy="uuid2")
+        @GenericGenerator(name="uuid2", strategy="uuid2")
 	@Column(name = "ID_ROMBEL")
 	private String id_rombel;
 	
@@ -139,5 +139,15 @@ public class rombel {
 	public void setPertemuan_dalam_seminggu(int pertemuan_dalam_seminggu) {
 		this.pertemuan_dalam_seminggu = pertemuan_dalam_seminggu;
 	}
+          @Override
+	    public String toString() {
+	    String str1 = "ID REGISTRATSI :"+id_rombel+"\n";
+	    str1 = str1+"ID PTK :"+id_ptk+"\n";
+	    str1 = str1 +"ID MATPEL :"+ id_matpel+"\n";
+	    str1 = str1 +"ID SMT :"+ id_smt+"\n";
+	    System.out.println(str1);
+	    return str1;
+	    }
+
 
 }

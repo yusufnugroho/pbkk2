@@ -16,15 +16,11 @@ public class nilai_akhir_console {
         ctx.refresh();
         Nilai_Akhir data_1 = new Nilai_Akhir("50003",11, 90);
         Nilai_Akhir_Dao controller = ctx.getBean("Nilai_Akhir",Nilai_Akhir_Dao.class);
-        //controller.save(data_1);
-        /*
-        List <Nilai_Akhir_Dao> data = Nilai_Akhir.list();
-        for (Nilai_Akhir akhir : data) 
-        {
-			System.out.println(akhir);
-		}
-		*/
-        controller.list();
+       // controller.save(data_1);
+        //controller.list();
+        //controller.findByID("50003").toString();
+        //controller.delete("50003");
+        controller.findByUAS(90).toString();
         System.out.println("Lihat database Mysqal anda");
     }
 

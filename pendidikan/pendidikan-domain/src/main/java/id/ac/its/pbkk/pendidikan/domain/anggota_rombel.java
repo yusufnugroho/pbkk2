@@ -91,5 +91,14 @@ public class anggota_rombel {
 	}
 
 	//setter and getter
+         @Override
+	    public String toString() {
+	    String str1 = "ID ANGGOTA ROMBEL :"+id_anggota_rombel+"\n";
+	    str1 = str1+"ID PD :"+id_pd+"\n";
+	    str1 = str1 +"ID ROMBEL :"+ id_rombel+"\n";
+
+	    System.out.println(str1);
+	    return str1;
+	    }
 		
 }

@@ -20,7 +20,7 @@ public class nilai_semester_console {
 		//int nilai_mata_pelajaran_sikap
         nilai_semester data_1 = new nilai_semester("147","900","50000",98,98,98);
         nilai_semester_Dao controller = ctx.getBean("nilai_semester",nilai_semester_Dao.class);
-        controller.save(data_1);
+        //controller.save(data_1);
         controller.list();
         System.out.println("Lihat database Mysqal anda");
     }

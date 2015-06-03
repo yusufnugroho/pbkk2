@@ -13,7 +13,7 @@ public class pd_console {
         ctx.load("classpath:datasource.xml");
         ctx.refresh();
         //UUID id_wali, String nim pd, String nm pd
-        pd data_1 = new pd("9DEF5B97-4124-5CAA-70C1-0B16F4D36134","2017","Rachmania");
+        pd data_1 = new pd("199922B9-3D6F-1CF8-7D81-51B8D11E01F7","2017","Oshi P GUsman Lagi");
         pd_Dao controller = ctx.getBean("pd",pd_Dao.class);
         controller.save(data_1);
         controller.list();

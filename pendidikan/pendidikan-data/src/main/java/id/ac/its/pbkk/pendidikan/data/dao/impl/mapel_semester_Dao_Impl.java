@@ -31,8 +31,9 @@ public class mapel_semester_Dao_Impl implements mapel_semester_Dao{
         }
 
 		public List<mapel_semester_Dao> list() {
-			// TODO Auto-generated method stub
-			return null;
+                    List<mapel_semester_Dao> MAPEL = this.getSessionFactory().openSession().createQuery("from mapel_semester").list();
+                    MAPEL.toString();
+                    return MAPEL;
 		}
 
 		public mapel_semester_Dao findByID(String id) {
@@ -58,5 +59,5 @@ public class mapel_semester_Dao_Impl implements mapel_semester_Dao{
 			// TODO Auto-generated method stub
 			return null;
 		}
-
+          
 }

@@ -86,5 +86,14 @@ public class registrasi_pd {
 	public void setId_pd(String id_pd) {
 		this.id_pd = id_pd;
 	}
+  @Override
+	    public String toString() {
+	    String str1 = "ID REGISTRASI :"+id_registrasi+"\n";
+	    str1 = str1+"ID SAT MAN :"+id_sat_man+"\n";
+	    str1 = str1 +"ID PD :"+ id_pd+"\n";
+
+	    System.out.println(str1);
+	    return str1;
+	    }
 
 }

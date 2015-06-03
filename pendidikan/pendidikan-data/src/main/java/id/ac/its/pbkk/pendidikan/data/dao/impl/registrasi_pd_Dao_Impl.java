@@ -32,9 +32,10 @@ public class registrasi_pd_Dao_Impl  implements registrasi_pd_Dao{
         }
 
 		public List<registrasi_pd> list() {
-			// TODO Auto-generated method stub
-			return null;
-		}
+                    List<registrasi_pd> REGISTRASI = this.getSessionFactory().openSession().createQuery("from registrasi_pd").list();
+                    REGISTRASI.toString();
+                    return REGISTRASI;	
+                }
 
 		public registrasi_pd findByID(UUID id) {
 			// TODO Auto-generated method stub

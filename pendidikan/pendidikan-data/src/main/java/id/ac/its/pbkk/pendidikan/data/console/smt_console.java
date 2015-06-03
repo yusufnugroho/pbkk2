@@ -11,7 +11,8 @@ public class smt_console {
         GenericXmlApplicationContext ctx = new GenericXmlApplicationContext();
         ctx.load("classpath:datasource.xml");
         ctx.refresh();
-        smt data_1 = new smt("159","2017","323");
+        //String id_smt, String nm_smt, String id_thn_ajaran
+        smt data_1 = new smt("88","GANJIL2016","123");
         smt_Dao controller = ctx.getBean("smt",smt_Dao.class);
         controller.save(data_1);
         controller.list();

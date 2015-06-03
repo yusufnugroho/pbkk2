@@ -32,8 +32,9 @@ public class nilai_semester_dao_impl implements nilai_semester_Dao{
         }
 
 		public List<nilai_semester> list() {
-			// TODO Auto-generated method stub
-			return null;
+                       List<nilai_semester> NILAI_SEMESTER = this.getSessionFactory().openSession().createQuery("from nilai_semester").list();
+                       NILAI_SEMESTER.toString();
+                        return NILAI_SEMESTER;
 		}
 
 		public nilai_semester_Dao findByID(String id) {

@@ -135,5 +135,14 @@ public class nilai_semester {
 	}
 	
 	
-	
+	  @Override
+	    public String toString() {
+	    String str1 = "ID NILAI SEMESTER :"+id_nilai_semester+"\n";
+	    str1 = str1+"ID MATPEL :"+id_matpel+"\n";
+	    str1 = str1 +"ID NILAI AKHIR :"+ id_nilai_akhir+"\n";
+
+	    System.out.println(str1);
+	    return str1;
+	    }
+
 }

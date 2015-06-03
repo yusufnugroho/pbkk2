@@ -31,7 +31,9 @@ public class pd_Dao_Impl implements pd_Dao {
         }
 
     public List<pd_Dao> list() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        List<pd_Dao> PD = this.getSessionFactory().openSession().createQuery("from pd").list();
+         PD.toString();
+         return PD;
     }
 
     public pd_Dao findByID(UUID id) {

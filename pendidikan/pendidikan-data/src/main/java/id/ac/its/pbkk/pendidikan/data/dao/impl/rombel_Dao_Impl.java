@@ -14,7 +14,6 @@ import id.ac.its.pbkk.pendidikan.domain.rombel;
 
 @Transactional
 @Repository("rombel")
-
 public class rombel_Dao_Impl implements rombel_Dao {
 	public rombel_Dao_Impl (){}
 	//SessionFactory
@@ -30,8 +29,9 @@ public class rombel_Dao_Impl implements rombel_Dao {
     }
 
 	public List<rombel> list() {
-		// TODO Auto-generated method stub
-		return null;
+		List<rombel> ROMBEL = this.getSessionFactory().openSession().createQuery("from rombel").list();
+         ROMBEL.toString();
+         return ROMBEL;
 	}
 
 	public rombel findByID(String id) {

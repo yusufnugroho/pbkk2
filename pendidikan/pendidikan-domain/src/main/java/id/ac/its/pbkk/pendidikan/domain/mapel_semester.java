@@ -114,6 +114,15 @@ public class mapel_semester {
 	}
 	
 	
-	
+	  @Override
+	    public String toString() {
+	    String str1 = "ID MAPEL SEMESTER :"+id_mapel_semester+"\n";
+	    str1 = str1+"ID MATPEL :"+id_matpel+"\n";
+	    str1 = str1 +"ID SMT :"+ id_smt+"\n";
+
+	    System.out.println(str1);
+	    return str1;
+	    }
+
 	
 }

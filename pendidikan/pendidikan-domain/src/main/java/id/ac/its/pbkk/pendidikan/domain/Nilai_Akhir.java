@@ -26,7 +26,7 @@ import org.joda.time.DateTime;
 @Table (name="nilai_akhir")
 public class Nilai_Akhir {
 	@Id
-	@Column(name ="ID_NILAI_AKHIR",length=5)
+	@Column(name ="ID_NILAI_AKHIR")
 	private String id_nilai_akhir;
 	
 	@Column(name ="NILAI_UJIAN_AKHIR")
@@ -36,12 +36,11 @@ public class Nilai_Akhir {
 	private int nilai_uas;
 	/*Default Attribute*/
 
-	@Column(name = "SOFT_DELETE", nullable = true)
-	private boolean soft_delete;
+	@Column(name = "SOFT_DELETE")
+	private int soft_delete;
 	
-	//@Type(type="org.jadira.usertype.dateandtime.joda.PersistentDateTime")
-	@Column(name = "CREATE_DATE", nullable = true)
-	private DateTime create_date;
+	@Column(name = "CREATE_DATE")
+	private String create_date;
 	//###
 	/*
 	 * SETTER and GETTER*/
@@ -71,16 +70,16 @@ public class Nilai_Akhir {
 		this.nilai_uas = nilai_uas;
 	}
 	
-	public boolean isSoft_delete() {
+	public int getSoft_delete() {
 		return soft_delete;
 	}
-	public void setSoft_delete(boolean soft_delete) {
+	public void setSoft_delete(int soft_delete) {
 		this.soft_delete = soft_delete;
 	}
-	public DateTime getCreate_date() {
+	public String getCreate_date() {
 		return create_date;
 	}
-	public void setCreate_date(DateTime create_date) {
+	public void setCreate_date(String create_date) {
 		this.create_date = create_date;
 	}
 	public Nilai_Akhir(String id_nilai_akhir, int nilai_ujian_akhir,int nilai_uas)
@@ -92,8 +91,8 @@ public class Nilai_Akhir {
 	}
 	 @Override
 	    public String toString() {
-	    String str1 = "ID Nilai Ujian Akhir :"+id_nilai_akhir+"\n";
-	    str1 = str1+"Nilai Ujian Akhir"+nilai_ujian_akhir+"\n";
+	    String str1 = "ID Nilai Ujian Akhir : "+id_nilai_akhir+"\n";
+	    str1 = str1+"Nilai Ujian Akhir : "+nilai_ujian_akhir+"\n";
 	    System.out.println(str1);
 	    return str1;
 	    }

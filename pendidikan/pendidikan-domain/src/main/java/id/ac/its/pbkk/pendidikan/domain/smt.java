@@ -88,7 +88,15 @@ public class smt {
     public void setId_thn_ajaran(String id_thn_ajaran) {
         this.id_thn_ajaran = id_thn_ajaran;
     }
-		
+		@Override
+	    public String toString() {
+	    String str1 = "ID SMT :"+id_smt+"\n";
+	    str1 = str1+"ID THN AJARAN :"+id_thn_ajaran+"\n";
+	    str1 = str1 +"NM SMT :"+ nm_smt+"\n";
+
+	    System.out.println(str1);
+	    return str1;
+            }
 
 
 }

@@ -33,7 +33,9 @@ public class smt_Dao_Impl implements smt_Dao{
         }
         //Function
     public List<smt_Dao> list() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+     List<smt_Dao> SMT = (List<smt_Dao>) session_factory.getCurrentSession().createQuery("from smt").list();//this.getSessionFactory().openSession().createQuery("from wali_pd").list();
+	         SMT.toString();
+	         return SMT;
     }
 
     public smt_Dao findByID(UUID id) {
@@ -52,13 +54,8 @@ public class smt_Dao_Impl implements smt_Dao{
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
-<<<<<<< HEAD
     public List<smt> findByName(String name) {
 		return null;
-=======
-    public void findByName(String name) {
->>>>>>> bcd093cb7ee3eea84744390d0549ca5cfd1cbe89
-      
     }
     
 }

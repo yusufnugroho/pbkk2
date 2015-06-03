@@ -180,6 +180,14 @@ public class pd {
 		this.create_date = create_date;
 	}
 	
-	
+	 @Override
+	    public String toString() {
+	    String str1 = "ID PD :"+id_pd+"\n";
+	    str1 = str1+"ID WALI :"+id_wali+"\n";
+	    str1 = str1 +"NAMA PD :"+ nm_pd+"\n";
+
+	    System.out.println(str1);
+	    return str1;
+	    }
 	
 }
